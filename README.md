@@ -38,7 +38,7 @@ Since this is an open-source developer build, you can load it directly into Goog
 
  4. **Load the Project:** Click the **Load unpacked** button in the top-left corner and select the unzipped project folder containing `manifest.json` and `content.js`.
 
- **You're all set!** Head over to YouTube, click the **Shorts** button on the sidebar, and watch your achievement counter fire.
+ **You're all set!** Head over to YouTube, click the **Shorts** button on the sidebar, and watch your counter appear.
 
 ## How It Works
 
