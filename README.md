@@ -26,19 +26,19 @@ This extension adds a tiny moment of awareness by making every counted Short imp
 - ### Minimal & Lightweight
     No frameworks, no bloat, no unnecessary permissions.
 
-> ## How to Setup
+## How to Setup
 
-> Since this is an open-source developer build, you can load it directly into Google Chrome in less than a minute without needing the Chrome Web Store:
+Since this is an open-source developer build, you can load it directly into Google Chrome in less than a minute without needing the Chrome Web Store:
 
-> 1. **Download the Code:** Click the green **Code** button at the top of this GitHub page and select **Download ZIP**. Extract the folder somewhere safe on your computer.
+ 1. **Download the Code:** Click the green **Code** button at the top of this GitHub page and select **Download ZIP**. Extract the folder somewhere safe on your computer.
 
-> 2. **Open Extensions Page:** Open a new tab in Chrome and navigate to `chrome://extensions/`.
+ 2. **Open Extensions Page:** Open a new tab in Chrome and navigate to `chrome://extensions/`.
 
-> 3. **Enable Developer Mode:** Toggle the **Developer mode** switch in the top-right corner to **ON**.
+ 3. **Enable Developer Mode:** Toggle the **Developer mode** switch in the top-right corner to **ON**.
 
-> 4. **Load the Project:** Click the **Load unpacked** button in the top-left corner and select the unzipped project folder containing `manifest.json` and `content.js`.
+ 4. **Load the Project:** Click the **Load unpacked** button in the top-left corner and select the unzipped project folder containing `manifest.json` and `content.js`.
 
-> **You're all set!** Head over to YouTube, click the **Shorts** button on the sidebar, and watch your achievement counter fire.
+ **You're all set!** Head over to YouTube, click the **Shorts** button on the sidebar, and watch your achievement counter fire.
 
 ## How It Works
 
