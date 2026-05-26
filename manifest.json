@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "YouTube Shorts Flash Counter",
+  "version": "2.2",
+  "description": "Flashes your daily Shorts count in giant text directly on screen.",
+  "permissions": ["storage"],
+  "host_permissions": ["https://www.youtube.com/shorts/*"],
+  "content_scripts": [
+    {
+      "matches": ["https://www.youtube.com/*"],
+      "js": ["content.js"],
+      "run_at": "document_start"
+    }
+  ]
+}
